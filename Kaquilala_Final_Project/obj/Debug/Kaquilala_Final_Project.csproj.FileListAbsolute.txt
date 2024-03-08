@@ -1,0 +1,63 @@
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe.config
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.pdb
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.LoginForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.Properties.Resources.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.GenerateResource.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.pdb
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.xml
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CopyComplete
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.RegForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.main.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.ListPage.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Home.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Profile.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe.config
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.pdb
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.xml
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.LoginForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.main.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.Properties.Resources.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.RegForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Home.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.ListPage.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Profile.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.GenerateResource.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CopyComplete
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.pdb
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe.config
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\Kaquilala_Final_Project.pdb
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.dll
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\bin\Debug\System.Data.OleDb.xml
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.LoginForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.main.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.Properties.Resources.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.RegForm.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Home.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.ListPage.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.UserControls.Profile.resources
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.GenerateResource.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.csproj.CopyComplete
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.exe
+C:\Users\Jermzu\source\repos\Kaquilala_Final_Project - Copy - Copy\Kaquilala_Final_Project\obj\Debug\Kaquilala_Final_Project.pdb
